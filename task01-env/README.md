@@ -23,6 +23,6 @@
 
 设计说明：单 client、asyncio.gather、异常回填、logging
 
-踩坑记录：至少写两条，比如 [project.scripts] 重复、cli.py 没保存导致 ImportError
+踩坑记录：仓库建多导致不能正常运行，submit时邮箱格式错误,没保存导致 ImportError
 
 验收对照
