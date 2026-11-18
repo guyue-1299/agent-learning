@@ -20,3 +20,4 @@ Thumbs.db
 
 # 截图导出的 PDF 可选忽略
 screenshots/*.pdf
+tempCodeRunnerFile.*
